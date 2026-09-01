@@ -20,7 +20,10 @@ h1 {
 }
 
 .gif {
-    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
     width: 300px;
-    margin: 20px auto;
+    margin: 0;
+    z-index: 9999;
 }

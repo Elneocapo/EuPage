@@ -5,7 +5,7 @@
 body {
     margin: 0;
     background: black;
-    background-image: url("image.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url("image.jpg");
     background-size: 1000px;
     background-repeat: repeat;
     image-rendering: pixelated;
